@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 abstract public class Animal {
-    protected String nombre;
 
+    private String q;
     public String getNombre() {
         return nombre;
     }
