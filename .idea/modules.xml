@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tp 4/Tp 4.iml" filepath="$PROJECT_DIR$/Tp 4/Tp 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp 5/tp 5.iml" filepath="$PROJECT_DIR$/tp 5/tp 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp 6/tp 6.iml" filepath="$PROJECT_DIR$/tp 6/tp 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp10/tp10.iml" filepath="$PROJECT_DIR$/tp10/tp10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp7/tp7.iml" filepath="$PROJECT_DIR$/tp7/tp7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp8/tp8.iml" filepath="$PROJECT_DIR$/tp8/tp8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tpcompleto.iml" filepath="$PROJECT_DIR$/.idea/tpcompleto.iml" />
+    </modules>
+  </component>
+</project>
